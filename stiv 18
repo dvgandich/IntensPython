@@ -1,4 +1,4 @@
-mport math
+import math
 # Запрос данных у пользователя
 radius = float(input("Введите радиус цилиндра: "))
 height = float(input("Введите высоту цилиндра: "))
